@@ -1,3 +1,3 @@
-Here are my projects that i made with Pico8
+projects that i made with Pico8
 
 #collision.p8
